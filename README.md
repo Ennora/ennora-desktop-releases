@@ -109,7 +109,8 @@ Get-AuthenticodeSignature .\Ennora-UK.msi
 
 The Windows downloads are not signed yet, so today this says `NotSigned`;
 rely on the checksum until they are. Once they are signed, it will say
-`Valid`, with the publisher Ennora Ltd.
+`Valid`, with the publisher Ethero, Inc., Ennora's US company, as on the
+Mac.
 
 ## Help
 
